@@ -8,7 +8,7 @@ From using plugins and scripts to add data to Rhino models, to creating database
 
 By bringing metrics that are quantifiable to the design process we can test, analyze, and simulate performance in order to reach a better outcome for HDR's clients. We partner with talented designers within the firm to create a solution that produces measurable results.
 
-![HDR%20D3%20Github%20Repo/GithubBrand.png](HDR%20D3%20Github%20Repo/GithubBrand.png)
+![https://github.com/HDR-Data-Driven-Design/D3/blob/master/GithubBrand.png](https://github.com/HDR-Data-Driven-Design/D3/blob/master/GithubBrand.png)
 
 D3 Space Planning Dashboard - Developed in house for client previews and meetings.
 
